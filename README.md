@@ -2,7 +2,7 @@
 
 1. Download repo
 ```
-git clone https://github.com/<repo_path>.git
+git clone https://github.com/continental/guided-concept-projection-vectors.git
 ```
 
 2. Create & activate venv (optionally)
