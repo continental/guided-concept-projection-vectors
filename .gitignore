@@ -1,0 +1,25 @@
+# vscode
+.vscode/
+
+# python
+__pycache__/
+
+# project folders
+
+data/
+.ipynb_checkpoints/
+
+# venv
+gcpv_venv/
+
+# project files
+*.pkl
+*.png
+*.jpg
+*.pt
+*.activations
+*.log
+*.html
+*.pdf
+
+!data/download_ms_coco_2017val_dataset.sh
